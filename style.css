@@ -1,0 +1,154 @@
+body{
+    font-family: Roboto;
+}
+
+header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+header img{
+    width: 67px;
+    height: 70px;
+    margin-left: 100px;
+}
+
+.a a{
+    text-decoration: none;
+    color: white;
+    text-shadow: 0px 3px 3px gray;
+}
+
+.a{
+    display: flex;
+    justify-content: space-around;
+    width:  800px;
+    margin-left: 270px;
+}
+
+.box1{
+    background-color: black;
+    height:550px;
+    width: 100%;
+    background-image: url(./Rectangle\ 2.png);
+    background-size: 100%;
+    padding-top: 1px;
+}
+
+.h1{
+    background-color: white;
+    width: 340px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 23px;
+    box-shadow: 8px 10px 12px white;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.d1{
+    background-color: red;
+    width: 160px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 0px 3px 3px;
+    position: relative;
+    left: 100px; top: 80px;
+}
+
+
+.d2{
+    background-color: red;
+    width: 260px;
+    height: 160px;
+    border-radius: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 0px 3px 3px;
+    position: relative;
+    top: 80px;
+}
+
+
+.d3{
+    background-color: red;
+    width: 160px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 0px 3px 3px;
+    position: relative;
+    right: 100px; top: 80px;
+}
+
+.b1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.d4{
+    background-color: rgba(50, 251, 0, 1);
+    color: red;
+    width: 160px;
+    height: 160px;
+    justify-content: center;
+    display: flex;
+    align-items: end;
+    text-shadow: 0px 3px 3px white;
+    box-shadow: 0px 0px 20px white;
+}
+
+.b2{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.box2{
+    background-color: black;
+    padding-top: 1px;
+}
+
+.d5{
+    color: white;
+    background-color: rgba(123, 37, 37, 1);
+    width: 220px;
+    height: 220px;
+    text-align: center;
+    
+}
+
+.d5 img{
+    width: 170px;
+}
+
+.b3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    padding-bottom: 30px;
+}
+
+footer{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+
+footer img{
+    width: 67px;
+    height: 70px;
+    margin-left: 100px;
+}
